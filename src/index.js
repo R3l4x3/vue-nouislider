@@ -1,14 +1,14 @@
-import Test from './components/Test.vue'
+import noUiSlider from './components/noUiSlider.vue'
 
 // Install the components
 export function install (Vue) {
-  Vue.component('test', Test)
+  Vue.component('nouislider', noUiSlider)
   /* -- Add more components here -- */
 }
 
 // Expose the components
 export {
-  Test,
+  noUiSlider,
   /* -- Add more components here -- */
 }
 

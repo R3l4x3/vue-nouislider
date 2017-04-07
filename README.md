@@ -5,9 +5,7 @@
 <img src="https://raw.githubusercontent.com/R3l4x3/vue-nouislider/master/Logo.png" width="160">
 </a>
 <br>
-<a href="https://www.npmjs.com/package/vue-nouislider">
-<img src="https://img.shields.io/npm/v/vue-nouislider.svg" alt="">
-</a>
+[![npm](https://img.shields.io/npm/v/vue-nouislider.svg)](https://www.npmjs.com/package/vue-nouislider)
 <a href="https://www.npmjs.com/package/vue-nouislider">
 <img src="https://img.shields.io/npm/dm/vue-nouislider.svg" alt="">
 </a>
@@ -16,7 +14,7 @@
 </a>
 </p>
 
->A Vue.js wrapper for noUiSlider
+>A [Vue.js](https://vuejs.org/) wrapper for [noUiSlider](https://refreshless.com/nouislider/)
 
 ## Table of contents
 

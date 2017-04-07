@@ -1,14 +1,14 @@
-import noUiSlider from './components/noUiSlider.vue'
+import VueNoUiSlider from './components/noUiSlider.vue'
 
 // Install the components
 export function install (Vue) {
-  Vue.component('nouislider', noUiSlider)
+  Vue.component('vue-nouislider', VueNoUiSlider)
   /* -- Add more components here -- */
 }
 
 // Expose the components
 export {
-  noUiSlider,
+  VueNoUiSlider,
   /* -- Add more components here -- */
 }
 
@@ -18,7 +18,7 @@ export {
 // Plugin
 const plugin = {
   /* eslint-disable no-undef */
-  version: VERSION,
+  // version: VERSION,
   install,
 }
 

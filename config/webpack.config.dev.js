@@ -3,7 +3,7 @@ var base = require('./webpack.config.base')
 var path = require('path')
 
 var outputFile = 'vue-nouislider'
-var globalName = 'VueNouislider'
+var globalName = 'VueNoUiSlider'
 
 module.exports = merge(base, {
   output: {

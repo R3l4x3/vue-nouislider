@@ -4,7 +4,7 @@ var base = require('./webpack.config.base')
 var path = require('path')
 
 var outputFile = 'vue-nouislider'
-var globalName = 'VueNouislider'
+var globalName = 'VueNoUiSlider'
 
 module.exports = merge(base, {
   output: {
@@ -17,7 +17,6 @@ module.exports = merge(base, {
     // Put external libraries like lodash here
     // With their package name
     // Example: 'lodash': 'lodash'
-    'lodash': '_'
   },
   plugins: [
     new webpack.optimize.UglifyJsPlugin({

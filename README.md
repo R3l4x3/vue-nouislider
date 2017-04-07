@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/R3l4x3/vue-nouislider">
-![Logo.png](Logo.png)
+![Logo.png](https://raw.githubusercontent.com/R3l4x3/vue-nouislider/master/Logo.png)
 
 [![npm](https://img.shields.io/npm/v/vue-nouislider.svg) ![npm](https://img.shields.io/npm/dm/vue-nouislider.svg)](https://www.npmjs.com/package/vue-nouislider)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
